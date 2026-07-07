@@ -1,0 +1,6 @@
+{
+  "name": "EcoDrop Maroc",
+  "description": "Plateforme marocaine de livraison collaborative de colis entre particuliers, écologique et solidaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
